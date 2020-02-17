@@ -6,3 +6,4 @@
 # svn
 # AirServer
 # test
+# appPrivacyPolicyUrl
